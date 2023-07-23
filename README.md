@@ -76,3 +76,24 @@ The application includes JUnit tests to ensure its functionality is working corr
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 Thank you for using the Task Management System application!
+
+
+
+# Screenshots:
+ViewTaskList
+
+![Screenshot (17)](https://github.com/RudrakshAgarwal/Task-Management-System/assets/67146250/94d40eb7-e3ca-4bbd-8a67-4ab32f3eb749)
+
+Edit Task
+
+![Screenshot (18)](https://github.com/RudrakshAgarwal/Task-Management-System/assets/67146250/ce397497-bde3-4e0c-b743-c9b18fcd57fe)
+
+Item Added Successfully:
+
+![Screenshot (19)](https://github.com/RudrakshAgarwal/Task-Management-System/assets/67146250/ce05b6bc-df7c-408c-b1af-59fca22f5247)
+
+Item Deleted Successfully:
+
+![Screenshot (21)](https://github.com/RudrakshAgarwal/Task-Management-System/assets/67146250/58ec75ac-5ea1-4d78-88a1-efb42af44c3c)
+
+
