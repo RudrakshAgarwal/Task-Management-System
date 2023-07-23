@@ -36,7 +36,7 @@
 
     <div class="container">
 
-        <h1 class="p-3"> Task Management List <small class="text-muted">using Rest</small> </h1>
+        <h1 class="p-3"> Task Management List <small class="text-muted">using Rest API</small> </h1>
 
         <form:form>
 
