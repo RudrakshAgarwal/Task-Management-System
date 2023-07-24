@@ -12,7 +12,7 @@
 	<artifactId>Task-Management-System</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Task-Management-System</name>
-	<description>Task Management System using Rest API Java 8 &amp; with Ms SQL Server Database.</description>
+	<description>Task Management System using Rest API Java 17 &amp; with Ms SQL Server Database.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
